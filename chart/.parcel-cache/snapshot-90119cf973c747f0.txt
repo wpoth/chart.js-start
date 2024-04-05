@@ -1,0 +1,10 @@
+9
+75C:\Users\WESle\OneDrive\Documenten\GitHub\chart.js-start\chart\package.json133567823774649680 0
+67C:\Users\WESle\OneDrive\Documenten\GitHub\chart.js-start\chart\dist133567829168858902 1
+78C:\Users\WESle\OneDrive\Documenten\GitHub\chart.js-start\chart\dist\index.html133567828528110289 0
+82C:\Users\WESle\OneDrive\Documenten\GitHub\chart.js-start\chart\src\acquisitions.js133567829168516135 0
+66C:\Users\WESle\OneDrive\Documenten\GitHub\chart.js-start\chart\src133567828377405809 1
+80C:\Users\WESle\OneDrive\Documenten\GitHub\chart.js-start\chart\package-lock.json133567824575233471 0
+77C:\Users\WESle\OneDrive\Documenten\GitHub\chart.js-start\chart\src\index.html133567828130938091 0
+85C:\Users\WESle\OneDrive\Documenten\GitHub\chart.js-start\chart\dist\index.a521242b.js133567829168823916 0
+89C:\Users\WESle\OneDrive\Documenten\GitHub\chart.js-start\chart\dist\index.a521242b.js.map133567829168853904 0
