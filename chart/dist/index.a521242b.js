@@ -619,12 +619,12 @@ var _autoDefault = parcelHelpers.interopDefault(_auto);
         }
     ];
     new (0, _autoDefault.default)(document.getElementById("acquisitions"), {
-        type: "bar",
+        type: "line",
         data: {
             labels: data.map((row)=>row.year),
             datasets: [
                 {
-                    label: "ayooo",
+                    label: "Count per year",
                     data: data.map((row)=>row.count)
                 }
             ]
